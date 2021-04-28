@@ -7,19 +7,19 @@
 
 <div style="display: flex; flex-direction: row;">
   <div >
-      <img style="width: 100px; height: 50px;" src="https://github.com/SeptiantonRezki/app-student/blob/main/ui/Add.JPG" alt="">
+      <img width="100" height="50" src="https://github.com/SeptiantonRezki/app-student/blob/main/ui/Add.JPG" alt="">
   </div> 
   <div >
-      <img style="width: 100px; height: 50px;" src="https://github.com/SeptiantonRezki/app-student/blob/main/ui/Dashboard.JPG" alt="">
+      <img width="100" height="50" src="https://github.com/SeptiantonRezki/app-student/blob/main/ui/Dashboard.JPG" alt="">
   </div> 
   <div >
-      <img style="width: 100px; height: 50px;" src="https://github.com/SeptiantonRezki/app-student/blob/main/ui/Update.JPG" alt="">
+      <img width="100" height="50" src="https://github.com/SeptiantonRezki/app-student/blob/main/ui/Update.JPG" alt="">
   </div> 
   <div >
-      <img style="width: 100px; height: 50px;" src="https://github.com/SeptiantonRezki/app-student/blob/main/ui/Update-Done.JPG" alt="">
+      <img width="100" height="50" src="https://github.com/SeptiantonRezki/app-student/blob/main/ui/Update-Done.JPG" alt="">
   </div> 
   <div >
-      <img style="width: 100px; height: 50px;" src="https://github.com/SeptiantonRezki/app-student/blob/main/ui/Delete.JPG" alt="">
+      <img width="100" height="50" src="https://github.com/SeptiantonRezki/app-student/blob/main/ui/Delete.JPG" alt="">
   </div> 
 </div>
 # Getting Started with Create React App
