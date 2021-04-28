@@ -6,23 +6,23 @@
 - Delete Siswa Done
 
 ##
-<div style="display: flex; flex-direction: row;">
-  <span >
-      <img width="600" height="550" src="https://github.com/SeptiantonRezki/app-student/blob/main/ui/Add.JPG" alt="">
-  </span> 
-  <span >
-      <img width="600" height="550" src="https://github.com/SeptiantonRezki/app-student/blob/main/ui/Dashboard.JPG" alt="">
-  </span> 
-  <span >
-      <img width="600" height="550" src="https://github.com/SeptiantonRezki/app-student/blob/main/ui/Update.JPG" alt="">
-  </span> 
-  <span >
-      <img width="600" height="550" src="https://github.com/SeptiantonRezki/app-student/blob/main/ui/Update-Done.JPG" alt="">
-  </span> 
-  <span >
-      <img width="600" height="550" src="https://github.com/SeptiantonRezki/app-student/blob/main/ui/Delete.JPG" alt="">
-  </span> 
-</div>
+<span >
+    <img width="400" height="350" src="https://github.com/SeptiantonRezki/app-student/blob/main/ui/Add.JPG" alt="">
+</span> 
+<span >
+    <img width="400" height="350" src="https://github.com/SeptiantonRezki/app-student/blob/main/ui/Dashboard.JPG" alt="">
+</span> 
+<span >
+    <img width="400" height="350" src="https://github.com/SeptiantonRezki/app-student/blob/main/ui/Update.JPG" alt="">
+</span> 
+##
+<span >
+    <img width="400" height="350" src="https://github.com/SeptiantonRezki/app-student/blob/main/ui/Update-Done.JPG" alt="">
+</span> 
+<span >
+    <img width="400" height="350" src="https://github.com/SeptiantonRezki/app-student/blob/main/ui/Delete.JPG" alt="">
+</span>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
