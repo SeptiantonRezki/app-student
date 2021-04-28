@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "nama": "Septianton Rezki Rahmatulloh",
+        "umur": 21,
+        "alamat": "kediri"
+    },
+    {
+        "id": 2,
+        "nama": "Bayu Eka Daman Puri Widodo",
+        "umur": 21,
+        "alamat": "Kalimantan"
+    },
+    {
+        "id": 3,
+        "nama": "Surya Bintang Diawan",
+        "umur": 21,
+        "alamat": "palangkaraya"
+    },
+    {
+        "id": 4,
+        "nama": "Muhammad Fajar Rifaldi",
+        "umur": 21,
+        "alamat": "Malang"
+    }
+]
