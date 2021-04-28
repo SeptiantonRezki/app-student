@@ -4,19 +4,19 @@
 - Update Siswa
 - Update Siswa Done
 - Delete Siswa Done
-<div style={height: 150px, width:300px}>
+<div style="width: 300px; height: 150px;">
     <img src="https://github.com/SeptiantonRezki/app-student/blob/main/ui/Add.JPG" alt="">
 </div> 
-<div style={height: 150px, width:300px}>
+<div style="width: 300px; height: 150px;">
     <img src="https://github.com/SeptiantonRezki/app-student/blob/main/ui/Dashboard.JPG" alt="">
 </div> 
-<div style={height: 150px, width:300px}>
+<div style="width: 300px; height: 150px;">
     <img src="https://github.com/SeptiantonRezki/app-student/blob/main/ui/Update.JPG" alt="">
 </div> 
-<div style={height: 150px, width:300px}>
+<div style="width: 300px; height: 150px;">
     <img src="https://github.com/SeptiantonRezki/app-student/blob/main/ui/Update-Done.JPG" alt="">
 </div> 
-<div style={height: 150px, width:300px}>
+<div style="width: 300px; height: 150px;">
     <img src="https://github.com/SeptiantonRezki/app-student/blob/main/ui/Delete.JPG" alt="">
 </div> 
 
