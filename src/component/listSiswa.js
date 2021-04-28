@@ -62,7 +62,13 @@ const ListSiswa = () => {
     }
 
     const deleteSiswa = (e) => {
-        dispatch({ type: 'DELETE_SISWA', id: e.target.value })
+        dispatch({ type: 'DELETE_SISWA', id: e.target.value });
+        setData({
+            alamat: "",
+            date: "",
+            id: "",
+            nama: ""
+        });
     }
 
     const handleNama = (value) => {
