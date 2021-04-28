@@ -6,21 +6,21 @@
 - Read Siswa or Home
 
 ## Interface
-<span >
+<center>
     <img width="300" height="250" src="https://github.com/SeptiantonRezki/app-student/blob/main/ui/Add.JPG" alt="">
-</span> 
-<span >
+</center> 
+<center >
     <img width="300" height="250" src="https://github.com/SeptiantonRezki/app-student/blob/main/ui/Update.JPG" alt="">
-</span>
-<span >
+</center>
+<center >
     <img width="300" height="250" src="https://github.com/SeptiantonRezki/app-student/blob/main/ui/Update-Done.JPG" alt="">
-</span> 
-<span >
+</center> 
+<center >
     <img width="300" height="250" src="https://github.com/SeptiantonRezki/app-student/blob/main/ui/Delete.JPG" alt="">
-</span>
-<span >
+</center>
+<center >
     <img width="300" height="250" src="https://github.com/SeptiantonRezki/app-student/blob/main/ui/Dashboard.JPG" alt="">
-</span> 
+</center> 
 
 # Getting Started with Create React App
 
