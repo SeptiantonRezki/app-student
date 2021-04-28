@@ -1,26 +1,24 @@
 # User Interface
 - Add or Create Siswa
-<center>
-    <img src="https://github.com/SeptiantonRezki/app-student/blob/main/ui/Add.JPG" alt="">
-</center> 
 - Read Siswa or Home
-<center>
-    <img src="https://github.com/SeptiantonRezki/app-student/blob/main/ui/Dashboard.JPG" alt="">
-</center> 
 - Update Siswa
-<center>
-    <img src="https://github.com/SeptiantonRezki/app-student/blob/main/ui/Update.JPG" alt="">
-</center> 
 - Update Siswa Done
-<center>
-    <img src="https://github.com/SeptiantonRezki/app-student/blob/main/ui/Update-Done.JPG" alt="">
-</center> 
 - Delete Siswa Done
-<center>
+<div style={height: 150px, width:300px}>
+    <img src="https://github.com/SeptiantonRezki/app-student/blob/main/ui/Add.JPG" alt="">
+</div> 
+<div style={height: 150px, width:300px}>
+    <img src="https://github.com/SeptiantonRezki/app-student/blob/main/ui/Dashboard.JPG" alt="">
+</div> 
+<div style={height: 150px, width:300px}>
+    <img src="https://github.com/SeptiantonRezki/app-student/blob/main/ui/Update.JPG" alt="">
+</div> 
+<div style={height: 150px, width:300px}>
+    <img src="https://github.com/SeptiantonRezki/app-student/blob/main/ui/Update-Done.JPG" alt="">
+</div> 
+<div style={height: 150px, width:300px}>
     <img src="https://github.com/SeptiantonRezki/app-student/blob/main/ui/Delete.JPG" alt="">
-</center> 
-
-
+</div> 
 
 # Getting Started with Create React App
 
