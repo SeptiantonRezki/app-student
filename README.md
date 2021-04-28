@@ -6,21 +6,21 @@
 - Delete Siswa Done
 
 <div style="display: flex; flex-direction: row;">
-  <div >
+  <span >
       <img width="100" height="50" src="https://github.com/SeptiantonRezki/app-student/blob/main/ui/Add.JPG" alt="">
-  </div> 
-  <div >
+  </span> 
+  <span >
       <img width="100" height="50" src="https://github.com/SeptiantonRezki/app-student/blob/main/ui/Dashboard.JPG" alt="">
-  </div> 
-  <div >
+  </span> 
+  <span >
       <img width="100" height="50" src="https://github.com/SeptiantonRezki/app-student/blob/main/ui/Update.JPG" alt="">
-  </div> 
-  <div >
+  </span> 
+  <span >
       <img width="100" height="50" src="https://github.com/SeptiantonRezki/app-student/blob/main/ui/Update-Done.JPG" alt="">
-  </div> 
-  <div >
+  </span> 
+  <span >
       <img width="100" height="50" src="https://github.com/SeptiantonRezki/app-student/blob/main/ui/Delete.JPG" alt="">
-  </div> 
+  </span> 
 </div>
 # Getting Started with Create React App
 
