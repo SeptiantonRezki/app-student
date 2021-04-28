@@ -6,20 +6,20 @@
 - Delete Siswa Done
 
 <div style="display: flex; flex-direction: row;">
-  <div style="width: 100px; height: 50px;">
-      <img src="https://github.com/SeptiantonRezki/app-student/blob/main/ui/Add.JPG" alt="">
+  <div >
+      <img style="width: 100px; height: 50px;" src="https://github.com/SeptiantonRezki/app-student/blob/main/ui/Add.JPG" alt="">
   </div> 
-  <div style="width: 100px; height: 50px;">
-      <img src="https://github.com/SeptiantonRezki/app-student/blob/main/ui/Dashboard.JPG" alt="">
+  <div >
+      <img style="width: 100px; height: 50px;" src="https://github.com/SeptiantonRezki/app-student/blob/main/ui/Dashboard.JPG" alt="">
   </div> 
-  <div style="width: 100px; height: 50px;">
-      <img src="https://github.com/SeptiantonRezki/app-student/blob/main/ui/Update.JPG" alt="">
+  <div >
+      <img style="width: 100px; height: 50px;" src="https://github.com/SeptiantonRezki/app-student/blob/main/ui/Update.JPG" alt="">
   </div> 
-  <div style="width: 100px; height: 50px;">
-      <img src="https://github.com/SeptiantonRezki/app-student/blob/main/ui/Update-Done.JPG" alt="">
+  <div >
+      <img style="width: 100px; height: 50px;" src="https://github.com/SeptiantonRezki/app-student/blob/main/ui/Update-Done.JPG" alt="">
   </div> 
-  <div style="width: 100px; height: 50px;">
-      <img src="https://github.com/SeptiantonRezki/app-student/blob/main/ui/Delete.JPG" alt="">
+  <div >
+      <img style="width: 100px; height: 50px;" src="https://github.com/SeptiantonRezki/app-student/blob/main/ui/Delete.JPG" alt="">
   </div> 
 </div>
 # Getting Started with Create React App
