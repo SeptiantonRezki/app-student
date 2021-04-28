@@ -4,22 +4,24 @@
 - Update Siswa
 - Update Siswa Done
 - Delete Siswa Done
-<div style="width: 300px; height: 150px;">
-    <img src="https://github.com/SeptiantonRezki/app-student/blob/main/ui/Add.JPG" alt="">
-</div> 
-<div style="width: 300px; height: 150px;">
-    <img src="https://github.com/SeptiantonRezki/app-student/blob/main/ui/Dashboard.JPG" alt="">
-</div> 
-<div style="width: 300px; height: 150px;">
-    <img src="https://github.com/SeptiantonRezki/app-student/blob/main/ui/Update.JPG" alt="">
-</div> 
-<div style="width: 300px; height: 150px;">
-    <img src="https://github.com/SeptiantonRezki/app-student/blob/main/ui/Update-Done.JPG" alt="">
-</div> 
-<div style="width: 300px; height: 150px;">
-    <img src="https://github.com/SeptiantonRezki/app-student/blob/main/ui/Delete.JPG" alt="">
-</div> 
 
+<div style="display: flex; flex-direction: row;">
+  <div style="width: 200px; height: 100px;">
+      <img src="https://github.com/SeptiantonRezki/app-student/blob/main/ui/Add.JPG" alt="">
+  </div> 
+  <div style="width: 200px; height: 100px;">
+      <img src="https://github.com/SeptiantonRezki/app-student/blob/main/ui/Dashboard.JPG" alt="">
+  </div> 
+  <div style="width: 200px; height: 100px;">
+      <img src="https://github.com/SeptiantonRezki/app-student/blob/main/ui/Update.JPG" alt="">
+  </div> 
+  <div style="width: 200px; height: 100px;">
+      <img src="https://github.com/SeptiantonRezki/app-student/blob/main/ui/Update-Done.JPG" alt="">
+  </div> 
+  <div style="width: 200px; height: 100px;">
+      <img src="https://github.com/SeptiantonRezki/app-student/blob/main/ui/Delete.JPG" alt="">
+  </div> 
+</div>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
