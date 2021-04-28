@@ -1,9 +1,25 @@
+# User Interface
+- Add or Create Siswa
 <center>
-    <img src="https://lh3.googleusercontent.com/FtCIEaN0hrvpcsDiw4DExyTGP5P-Zb_Nim07Dt2lVpeo3GdU0OBTdbd8hw3KNyHR5yqrKa4dJH3V1-RT2rvlgy_hfUPOXTXsP8ZoxhotGXaPpLwbk22kTLD66qFUtbSAbtDysaorSAtiuhUtFxMU60ItT2JI-5xOVTm2FPN07WcznWNPGojfl9SmSM96uCltaej8zt-vpeDGqBspYP4hVWGDMJBvCBOcnLp4ShoDHQk_pNKN_4igMV4PqCWVZQvy4f9E8JWD1QSrYJF4R_72Z6k9zPLWKZiNaSyNggsT4x9vTVJZigPdTS_e9Niu3MwedIUVcvVlW7xtnGY3Vb7Dz7QIUzI12BvfoBLwmu07zGmh-PvGR8cHsd3H4y6dlYdndAfhXfCiPFWQ_zVv7epLnOHh3rcqCN14B4tdr7D-fBjasU8TBM6QQMWNmUleXb0wPz1A-XCRiuWbwHiHo-kJzUxJLxpCZh_1S9lAUo7bfM01yN6vY-OUnuglJPPtFceuM8RuzkXIAfgFi59evCFSaKxZyncus0dIWdYmwjGSyIs5clZ7UO7mqOjsq0__2KuMdLydR2OQHETN0XSIG7WExsvcf4b-AF6Q022jE1MyLtHyNkDiqy8wPIITthdCOe-9Tw-tIboKFdGK0fXZ8GUVFNX2yDuQTGQIUTEuNqS2S0ZhbP2HWmoDJV_LEBCIXPM-OCdoQ2bseYPzzrRQjmz2_ME=w787-h368-no?authuser=0" alt="">
+    <img src="https://github.com/SeptiantonRezki/app-student/blob/main/ui/Add.JPG" alt="">
 </center> 
+- Read Siswa or Home
 <center>
-    <img src="https://github.com/SeptiantonRezki/app-student/blob/main/public/logo192.png" alt="">
+    <img src="https://github.com/SeptiantonRezki/app-student/blob/main/ui/Dashboard.JPG" alt="">
 </center> 
+- Update Siswa
+<center>
+    <img src="https://github.com/SeptiantonRezki/app-student/blob/main/ui/Update.JPG" alt="">
+</center> 
+- Update Siswa Done
+<center>
+    <img src="https://github.com/SeptiantonRezki/app-student/blob/main/ui/Update-Done.JPG" alt="">
+</center> 
+- Delete Siswa Done
+<center>
+    <img src="https://github.com/SeptiantonRezki/app-student/blob/main/ui/Delete.JPG" alt="">
+</center> 
+
 
 
 # Getting Started with Create React App
