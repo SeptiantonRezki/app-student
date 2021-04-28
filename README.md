@@ -1,26 +1,25 @@
-## User Interface
+## Functional System
 - Add or Create Siswa
 - Read Siswa or Home
 - Update Siswa
 - Update Siswa Done
 - Delete Siswa Done
 
-##
+## Interface
 <span >
-    <img width="400" height="350" src="https://github.com/SeptiantonRezki/app-student/blob/main/ui/Add.JPG" alt="">
+    <img width="300" height="250" src="https://github.com/SeptiantonRezki/app-student/blob/main/ui/Add.JPG" alt="">
 </span> 
 <span >
-    <img width="400" height="350" src="https://github.com/SeptiantonRezki/app-student/blob/main/ui/Dashboard.JPG" alt="">
+    <img width="300" height="250" src="https://github.com/SeptiantonRezki/app-student/blob/main/ui/Dashboard.JPG" alt="">
 </span> 
 <span >
-    <img width="400" height="350" src="https://github.com/SeptiantonRezki/app-student/blob/main/ui/Update.JPG" alt="">
-</span> 
-##
+    <img width="300" height="250" src="https://github.com/SeptiantonRezki/app-student/blob/main/ui/Update.JPG" alt="">
+</span>
 <span >
-    <img width="400" height="350" src="https://github.com/SeptiantonRezki/app-student/blob/main/ui/Update-Done.JPG" alt="">
+    <img width="300" height="250" src="https://github.com/SeptiantonRezki/app-student/blob/main/ui/Update-Done.JPG" alt="">
 </span> 
 <span >
-    <img width="400" height="350" src="https://github.com/SeptiantonRezki/app-student/blob/main/ui/Delete.JPG" alt="">
+    <img width="300" height="250" src="https://github.com/SeptiantonRezki/app-student/blob/main/ui/Delete.JPG" alt="">
 </span>
 
 # Getting Started with Create React App
